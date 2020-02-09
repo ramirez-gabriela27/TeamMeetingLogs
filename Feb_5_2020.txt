@@ -1,0 +1,24 @@
+Decided project is Rdraw basic description below
+
+RDraw 
+RDraw is a web-based application that randomly pairs people online to facilitate a “whiteboard'' like communication.
+
+Vision Statement:
+For young adults who want to share in a common artistic vision, we present them RDraw a web-based application that will help them artistically express themselves and connect online. Unlike other online drawing tools, this one lets you connect and draw together with strangers.
+
+Development Method
+We are using agile method
+
+Communication Plan
+We are using slack for communication
+
+Proposed Architecture Plan
+
+We are using HTML, CSS and Javascript
+
+Backend maybe SQL, we may use node js and API Connection
+
+Meeting Plan
+Two meeting times
+Wednesday 5-6
+Friday 12-1
