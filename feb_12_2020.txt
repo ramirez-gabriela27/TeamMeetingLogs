@@ -1,0 +1,6 @@
+Worked on Milestone 2.
+
+Made decisions about layout, features and the overall structure
+of RDraw
+
+*Meeting notes would be on Milestone 2 File
