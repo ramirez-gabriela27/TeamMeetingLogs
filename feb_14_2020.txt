@@ -1,0 +1,5 @@
+Proceeded with Milestone 2
+
+Decided on using Trello to keep track project progress
+Completed the table of functional and non-functional requirements
+Assigned tasks to team members - may change
