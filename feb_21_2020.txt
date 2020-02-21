@@ -1,0 +1,5 @@
+Discussed deadlines for front end of RDraw
+Designed wireframe and decided overall layout
+ - Wire Frame uploaded to this branch
+
+Met for 2 hours today (Friday) due to scheduling conflicts Wednesday
