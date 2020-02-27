@@ -1,0 +1,6 @@
+Discussed the wireframe, to make sure everyone is on the same page
+
+Started to look at/work on the front end of our web app
+    will begin with login page and work down from there
+        -> will be utilizing a pop-up box instead of a new page
+    worked on creating templates for pages
