@@ -1,0 +1,13 @@
+tasks:
+login functionality/API for login - michelle
+database/chat - alex/ramon
+bootstrap for login*
+drawing part* - functionality
+nathan is finishing up html
+* tasks that aren't taken yet
+
+goal: finish above tasks by spring break
+
+let others know that you are pushing and if you are changing anything -> send message in slack
+
+talk about our expectations/what it is going to look like in the next few weeks
