@@ -4,6 +4,7 @@ Lab 8 - Milestone 3 Interview
     - challenges
     - what's going well
     - what's not going well
+
 - Demonstrated log in page
 - Log-In page
 - Draw page - currently only single player
@@ -16,7 +17,6 @@ Lab 8 - Milestone 3 Interview
     - Demonstrated on Alex's computer
 
 Notes form him:
-- going in the right direction
 - expected more details to be already implemented
 - database heavy project
 - pick up the pace
