@@ -1,0 +1,42 @@
+Lab 8 - Milestone 3 Interview
+
+- Each team will get provided feedback on the progress
+    - challenges
+    - what's going well
+    - what's not going well
+- Demonstrated log in page
+- Log-In page
+- Draw page - currently only single player
+    - if it's not possible to have two players on the same canvas
+      have two canvases (easier)
+
+- Data Base
+    - User data base
+    - Able to access it remotely
+    - Demonstrated on Alex's computer
+
+Notes form him:
+- going in the right direction
+- expected more details to be already implemented
+- database heavy project
+- pick up the pace
+- work on main features: multiplayer
+- Please distribute the work so that it's easier to integrate
+- Everything looks good
+- worried about 2 canvases - 2 players
+    - major challenges
+- database challenges
+    - might need to include more
+    - good that we hosted it
+- Look at front end more
+
+- Lab after Spring Break will help with Data Base
+    - Exporting the port works as well
+
+* Going in the right direction
+
+
+- complete the white board feature and database for the write up
+- describe how they work
+- talk about feedback and how you implemented it
+- problems and issues
